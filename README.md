@@ -3,11 +3,11 @@ docker-r-devel
 
 R devel in docker
 
-70237
+70325
 
 R version
 =========
 
 ```
-R Under development (unstable) (2016-02-29 r70237) -- "Unsuffered Consequences"
+R Under development (unstable) (2016-03-12 r70325) -- "Unsuffered Consequences"
 ```
