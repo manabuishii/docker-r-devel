@@ -3,13 +3,13 @@ docker-r-devel
 
 R devel in docker
 
-71239
+72430
 
 R version
 =========
 
 ```
-R Under development (unstable) (2016-09-13 r71239) -- "Unsuffered Consequences"
+R Under development (unstable) (2017-03-28 r72430) -- "Unsuffered Consequences"
 ```
 
 hub docker
