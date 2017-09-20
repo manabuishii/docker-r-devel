@@ -9,7 +9,7 @@ R version
 =========
 
 ```
-R Under development (unstable) (2017-03-28 r72430) -- "Unsuffered Consequences"
+R Under development (unstable) (2017-09-18 r73313) -- "Unsuffered Consequences"
 ```
 
 hub docker
