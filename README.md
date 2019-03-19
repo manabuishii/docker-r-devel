@@ -20,6 +20,6 @@ hub docker
 R Source Code
 =============
 
-[https://svn.r-project.org/R/](R source code)
+[R source code](https://svn.r-project.org/R/)
 
-[https://svn.r-project.org/R/trunk/](R trunk source code)
+[R trunk source code](https://svn.r-project.org/R/trunk/)
